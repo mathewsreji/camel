@@ -1,0 +1,14 @@
+[[HuaweiCloud-CamelComponentsforHuaweiCloudServices]]
+= Camel Components for Huawei Cloud Services
+//attributes written by hand, not generated
+:docTitle: Huawei Cloud
+
+The Camel Components for integrating with various https://www.huaweicloud.com/intl/en-us/[Huawei Cloud Services]
+
+== {docTitle} components
+
+Click following links for guide to using each component:
+
+indexDescriptionList::[attributes='group={docTitle}',descAttribute=description]
+
+

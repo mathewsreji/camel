@@ -1,8 +1,8 @@
 [[hwcloud-smn-component]]
-= HuaweiCloud Simple Message Notification Component
-:docTitle: HuaweiCloud Simple Message Notification
+= SimpleNotification Component
+:docTitle: SimpleNotification
 :artifactId: camel-huaweicloud-smn
-:description: Component to integrate with HuaweiCloud Simple Message Notification services
+:description: Huawei Cloud component to integrate with SimpleNotification services
 :since: 3.8
 :supportLevel: Preview
 :component-header: Only producer is supported
@@ -40,7 +40,7 @@ hwcloud-smn:service[?options]
 == Options
 
 // component options: START
-The Simple Message Notification component supports 2 options, which are listed below.
+The SimpleNotification component supports 2 options, which are listed below.
 
 
 
@@ -53,7 +53,7 @@ The Simple Message Notification component supports 2 options, which are listed b
 // component options: END
 
 // endpoint options: START
-The Simple Message Notification endpoint is configured using URI syntax:
+The SimpleNotification endpoint is configured using URI syntax:
 
 ----
 hwcloud-smn:smnService

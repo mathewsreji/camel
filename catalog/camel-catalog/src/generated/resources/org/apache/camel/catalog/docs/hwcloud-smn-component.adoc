@@ -12,7 +12,7 @@ include::{cq-version}@camel-quarkus:ROOT:partial$reference/components/hwcloud-sm
 
 *{component-header}*
 
-Huawei Cloud SMN component allowes you to integrate with Simple notification services[https://www.huaweicloud.com/en-us/product/smn.html] provided by Huawei cloud.
+Huawei Cloud SMN component allows you to integrate with Simple notification services[https://www.huaweicloud.com/en-us/product/smn.html] provided by Huawei cloud.
 
 Maven users will need to add the following dependency to their `pom.xml`
 for this component:

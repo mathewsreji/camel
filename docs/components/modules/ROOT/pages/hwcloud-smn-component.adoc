@@ -1,7 +1,7 @@
 [[hwcloud-smn-component]]
 = SimpleNotification Component
 //THIS FILE IS COPIED: EDIT THE SOURCE FILE:
-:page-source: components/camel-huaweicloud-smn/src/main/docs/hwcloud-smn-component.adoc
+:page-source: componentscamel-huaweicloudcamel-huaweicloud-smnsrcmaindocshwcloud-smn-component.adoc
 :docTitle: SimpleNotification
 :artifactId: camel-huaweicloud-smn
 :description: Huawei Cloud component to integrate with SimpleNotification services
@@ -14,7 +14,7 @@ include::{cq-version}@camel-quarkus:ROOT:partial$reference/components/hwcloud-sm
 
 *{component-header}*
 
-Huawei Cloud SMN component allowes you to integrate with Simple notification services[https://www.huaweicloud.com/en-us/product/smn.html] provided by Huawei cloud.
+Huawei Cloud SMN component allows you to integrate with Simple notification services[https://www.huaweicloud.com/en-us/product/smn.html] provided by Huawei cloud.
 
 Maven users will need to add the following dependency to their `pom.xml`
 for this component:
